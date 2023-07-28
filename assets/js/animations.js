@@ -14,7 +14,7 @@ window.sr = ScrollReveal()
     })
 
     sr.reveal('.formu1', {
-        duration: 4500,
+        duration: 3500,
         origin: 'bottom',
         distance: '100px'
     })
